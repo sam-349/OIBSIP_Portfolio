@@ -408,3 +408,11 @@ li{
     outline: none;
     border: none;
 }
+
+.contact-form form input:active{
+    background: #eee;
+}
+
+.contact-form form textarea:active{
+    background: #eee;
+}
